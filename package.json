@@ -1,0 +1,22 @@
+{
+  "name": "reactor",
+  "version": "0.0.1",
+  "description": "reactor is a NodeJS + Redis API stack that would function as a data server and user management server.",
+  "main": "reactor.js",
+  "scripts": {
+    "test": "phantomjs tritium.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fusion-doctor/reactor.git"
+  },
+  "keywords": [
+    "project",
+    "fusion"
+  ],
+  "author": "doctor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fusion-doctor/reactor/issues"
+  }
+}
